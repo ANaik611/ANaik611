@@ -7,12 +7,12 @@
 
 ## 🧭 About Me
 
-- 🎓 Final-year BTech student at IIT Goa, specializing in AI & Machine Learning
+- 🎓 Final-year BTech student at Goa College of Engineering
 - 💻 Passionate about combining code, creativity, and problem-solving
 - 🛠 Currently building tools that blend AI, Web Dev & real-world utility
 - 🌱 Always learning — currently exploring Docker, AWS & advanced ML concepts
 - 🗂️ Portfolio of projects includes AI-driven apps, intelligent forms, and more
-- 📫 Reach me at: **anushkanaik@example.com** (update this)
+- 📫 Reach me at: **anushkanaik812@gmail.com** 
 
 ---
 
@@ -49,24 +49,21 @@ Postman | Leaflet API | VS Code | Ultralytics
 
 ## 📂 Featured Projects
 
-### 🔹 [CleanMail Tool](https://github.com/ANaik611/CleanMail_Tool)
-> Turns messy, raw email content into clean, human-readable messages — and copies them to your clipboard instantly!
+Plant Disease Detection & Segmentation | YOLOv8, Python, OpenCV 
+Engineered a YOLOv8-based pipeline for precise leaf disease segmentation in agricultural datasets. Applied semi-supervised learning to reduce 
+annotation effort and improve generalization. Used thresholding and the shoelace algorithm for area computation and automated severity grading. 
+Boosted detection accuracy from ~60% to 80% through iterative refinement 
 
-### 🔹 [FitTrackDB](https://github.com/ANaik611/FitTrackDB)
-> A well-structured SQL database that tracks user workouts, calories, and health metrics — perfect for data analysis and reporting.
+Blood Bank Management System | React, CNN, TensorFlow, Leaflet API 
+Created a full-stack web app to locate nearby blood banks and detect blood types from images using a CNN. Integrated Leaflet API for map 
+visualization and improved accessibility. GitHub: Project Link [
+
 
 > *More projects coming soon…*
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANaik611&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANaik611&theme=radical" width="45%" />
-</p>
-
----
 
 ## 📫 Let’s Connect!
 
